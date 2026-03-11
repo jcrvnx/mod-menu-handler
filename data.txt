@@ -9,12 +9,12 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KRYTO PREMIUM VERSION",
+      "name": "KRYTO PREMIUM",
       "status": "OFFLINE",
-      "lib_name": "libtranquility.so",
-      "download_url": "https://keapatootie.x10.mx/AgonyLib/libtranquility.so",
+      "lib_name": "libphantomeffortless.so",
+      "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libphantomeffortless.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    }
+    },
     {
       "name": "KRYTO VVIP VERSION",
       "status": "ONLINE",
