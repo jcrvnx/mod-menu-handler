@@ -2,25 +2,32 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "KEAPATOOTIE DELUXE",
+      "name": "KRYTO FREEMIUM",
+      "status": "ONLINE",
+      "lib_name": "libkrytofreemium.so",
+      "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libkrytofreemium.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "KRYTO PREMIUM VERSION",
       "status": "OFFLINE",
       "lib_name": "libtranquility.so",
       "download_url": "https://keapatootie.x10.mx/AgonyLib/libtranquility.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
+    }
     {
-      "name": "KRYTO FREE VERSION",
+      "name": "KRYTO VVIP VERSION",
       "status": "ONLINE",
       "lib_name": "libphantomeffortless.so",
       "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libphantomeffortless.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KEAPATOOTIE FREE [NO SKINHACKS]",
-      "status": "MAINTENANCE",
-      "lib_name": "libtranquility.so",
-      "download_url": "https://keapatootie.x10.mx/AgonyLib/libtranquility.so",
+      "name": "KRYTO BETA",
+      "status": "OFFLINE",
+      "lib_name": "libphantomeffortless.so",
+      "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libphantomeffortless.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    }
+    },
   ]
 }
