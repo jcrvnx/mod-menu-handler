@@ -1,0 +1,26 @@
+{
+  "menu_title": "SYSTEM SELECT",
+  "systems": [
+    {
+      "name": "KEAPATOOTIE DELUXE",
+      "status": "OFFLINE",
+      "lib_name": "libtranquility.so",
+      "download_url": "https://keapatootie.x10.mx/AgonyLib/libtranquility.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "KRYTO FREE VERSION",
+      "status": "ONLINE",
+      "lib_name": "libphantomeffortless.so",
+      "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libphantomeffortless.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "KEAPATOOTIE FREE [NO SKINHACKS]",
+      "status": "MAINTENANCE",
+      "lib_name": "libtranquility.so",
+      "download_url": "https://keapatootie.x10.mx/AgonyLib/libtranquility.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
