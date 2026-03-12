@@ -10,9 +10,9 @@
     },
     {
       "name": "KRYTO PHANTOM EFFORTLESS (PREMIUM)",
-      "status": "OFFLINE",
-      "lib_name": "libphantomeffortless.so",
-      "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libphantomeffortless.so",
+      "status": "ONLINE",
+      "lib_name": "libkrytodome.so",
+      "download_url": "https://element.x10.mx/OnlineLibrary/libkrytodome.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
