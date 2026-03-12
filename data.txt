@@ -9,17 +9,17 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KRYTO PREMIUM",
-      "status": "OFFLINE",
+      "name": "KRYTO PHANTOM EFFORTLESS (PREMIUM)",
+      "status": "ONLINE",
       "lib_name": "libphantomeffortless.so",
       "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libphantomeffortless.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KRYTO VVIP VERSION",
+      "name": "KRYTO FEARLESS (VVIP)",
       "status": "ONLINE",
-      "lib_name": "libphantomeffortless.so",
-      "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libphantomeffortless.so",
+      "lib_name": "libkrytofearless.so",
+      "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libkrytofearless.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
   ]
