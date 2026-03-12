@@ -3,7 +3,7 @@
   "systems": [
     {
       "name": "KRYTO FREEMIUM",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libkrytofreemium.so",
       "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libkrytofreemium.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
