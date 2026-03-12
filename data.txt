@@ -3,14 +3,14 @@
   "systems": [
     {
       "name": "KRYTO FREEMIUM",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libkrytofreemium.so",
       "download_url": "http://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libkrytofreemium.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "KRYTO PHANTOM EFFORTLESS (PREMIUM)",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libkrytodome.so",
       "download_url": "http://element.x10.mx/OnlineLibrary/libkrytodome.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
