@@ -19,7 +19,7 @@
       "name": "KRYTO FEARLESS (VVIP)",
       "status": "ONLINE",
       "lib_name": "libkrytofearless.so",
-      "download_url": "https://therealpanelofjcrvnx.x10.mx/OnlineLibrary/libkrytofearless.so",
+      "download_url": "https://element.x10.mx/OnlineLibrary/libkrytofearless.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
   ]
