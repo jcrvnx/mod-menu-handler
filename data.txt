@@ -16,7 +16,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KRYTO FEARLESS (VVIP)",
+      "name": "NYXAR OPIUM ULTRA",
       "status": "ONLINE",
       "lib_name": "libkrytofearless.so",
       "download_url": "http://element.x10.mx/OnlineLibrary/libkrytofearless.so",
