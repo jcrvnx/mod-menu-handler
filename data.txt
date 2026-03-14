@@ -19,7 +19,7 @@
       "name": "NYXAR OPIUM ULTRA",
       "status": "ONLINE",
       "lib_name": "libnyxaropium.so",
-      "download_url": "http://element.x10.mx/OnlineLibrarylibnyxaropium.so",
+      "download_url": "http://element.x10.mx/OnlineLibrary/libnyxaropium.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
   ]
