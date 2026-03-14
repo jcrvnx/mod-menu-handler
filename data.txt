@@ -18,8 +18,8 @@
     {
       "name": "NYXAR OPIUM ULTRA",
       "status": "ONLINE",
-      "lib_name": "libkrytofearless.so",
-      "download_url": "http://element.x10.mx/OnlineLibrary/libkrytofearless.so",
+      "lib_name": "libnyxaropium.so",
+      "download_url": "http://element.x10.mx/OnlineLibrarylibnyxaropium.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
   ]
